@@ -1,7 +1,10 @@
 # Portfolio Website
 
 > This is to record the process of building my portfolio website.
-> Below is the site map
+
+> Click [here](https://kevinsu-yc.github.io/portfolio/) to visit the site.
+
+> Below is the site map:
 
 ### Header
 
