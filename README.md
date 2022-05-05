@@ -1,8 +1,9 @@
 # Portfolio Website
 
-## Site Map
+> This is to record the process of building my portfolio website.
+> Below is the site map
 
-### **Header**
+### Header
 
 - Logo
 - Name
@@ -12,7 +13,7 @@
 - About
 - language
 
-### **Home (Projects) Page**
+### Home (Projects) Page
 
 - H1: Greeting with Brief self-introduction
     - CTA: About Me
@@ -43,7 +44,7 @@
     - Scroll to top
     - Back to home page
 
-### **Create for Fun Page**
+### Create for Fun Page
 
 - Card view of my creation practice
 - Design and Develop
@@ -56,7 +57,7 @@
     - GitHub
     - Dribbble
 
-### **About Page**
+### About Page
 
 - H1: Name and photo
 - Introduce myself
