@@ -43,7 +43,7 @@ header {
 #hero-area {
     height: 650px;
     background-color: #06090e;
-    background-image: url("/assets/images/laptop.jpg");
+    background-image: url("/portfolio/assets/images/laptop.jpg");
     background-position: 200px 0px;
     background-repeat: no-repeat;
     background-size: cover;
