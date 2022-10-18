@@ -72,7 +72,7 @@ function filterGallery(e) {
 window.addEventListener('DOMContentLoaded', function () {
     window.addEventListener("scroll", showNavbar);
 
-    if (window.location.pathname == "/gallery.html") {
+    if (window.location.pathname == "/portfolio/gallery.html") {
         let layoutBtn = document.getElementById("layout-button");
         if (layoutBtn) {
             layoutBtn.addEventListener("click", changeLayout);
