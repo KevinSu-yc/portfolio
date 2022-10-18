@@ -14,8 +14,8 @@ function changeLayout() {
     let layoutBtnImg = document.querySelector(".layout-btn img");
     let layoutImgs = document.querySelectorAll(".gallery-img, .gallery-img-w")
     let layoutImgsArray = Array.from(layoutImgs, element => element);
-    let fourBlockImg = "/assets/images/four-block.svg";
-    let twoBloclImg = "/assets/images/two-block.svg";
+    let fourBlockImg = "/portfolio/assets/images/four-block.svg";
+    let twoBloclImg = "/portfolio/assets/images/two-block.svg";
 
     if (layoutBtnImg.src == `${window.location.protocol}//${window.location.host}${fourBlockImg}`) {
         layoutBtnImg.src = twoBloclImg;
@@ -37,7 +37,7 @@ function forceChangeLayOut() {
     let layoutImgsArray = Array.from(layoutImgs, element => element);
 
     if (window.innerWidth < 768) {
-        layoutBtnImg.src = "/assets/images/four-block.svg";
+        layoutBtnImg.src = "/portfolio/assets/images/four-block.svg";
         layoutImgsArray.forEach(element => {
             element.classList.add("gallery-img-half");
         });
